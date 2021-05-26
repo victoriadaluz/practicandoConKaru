@@ -92,4 +92,16 @@ let alumnxs = [ // Base de datos
         ]
     },
 ]
+
 console.log("Hola keonda 😎")
+let Karu = [
+    {
+        nombre: "Karina",
+        apellido: "Ledesma",
+        edad: 25,
+        ciudad: "Buenos Aires",
+        hobby: "Lolcito",
+    }
+]
+
+console.log("Muchos exitos Vicky 🌈🌈🌈💕🍑😎🍄🌭");
