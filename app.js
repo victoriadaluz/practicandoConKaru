@@ -92,3 +92,4 @@ let alumnxs = [ // Base de datos
         ]
     },
 ]
+console.log("Hola keonda 😎")
